@@ -44,7 +44,7 @@ class Movie extends React.Component {
         } = this.state.movie;
 
         return (
-            <div className="contaienr">
+            <div className="container">
                 <div className="row pt-5">
                     <div className="col-6">
                         <h1>{Title}</h1>
